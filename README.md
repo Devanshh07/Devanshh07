@@ -4,7 +4,7 @@ Software Engineer || Full Stack Developer || NIT Bhopal
 💌 Let’s connect: devbaghel457@gmail.com
 
 - 🚀 Working on: Full Stack MERN apps  
-- 📈 Learning: React Native & DSA  
+- 📈 Learning: NextJs, AI & DSA  
 - 🔥 Open to: Web/App collaborations  
 - 💬 Ask me about: MERN & Problem Solving  
 - 💼 Open to: Internship & Full-time Software Engineer roles
